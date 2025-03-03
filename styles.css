@@ -75,6 +75,11 @@ main
     color: white;
 }
 
+.campus
+{
+    float:inline-end;
+}
+
 table
 {
 
