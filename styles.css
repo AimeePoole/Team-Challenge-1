@@ -154,12 +154,9 @@ td
   background-color: blue;
     }
 
-.navbarItem
-{  
-    float: left;
-}
 
-.navigation
+
+.navbarItem
 {
     background-color: rgb(162, 198, 218);
     margin: 10px 5px;
@@ -168,8 +165,4 @@ td
     display:inline-block;
 }
 
-#nav
-{
-    margin: auto;
-    width: 300px;
-}
+
