@@ -33,6 +33,18 @@ main
     color: white;
 }
 
+
+
+.navigation
+{
+    background-color: rgb(162, 198, 218);
+    margin: 10px 5px;
+    padding: 10px;
+    color: white;
+    float: ;
+    
+}
+
 .event
 {
     margin: 10px 5px;
