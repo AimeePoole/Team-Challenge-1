@@ -122,3 +122,11 @@ td
     color: white;
     display:inline-block;
   }
+
+#newton
+{
+    float:left;
+    width:100%;
+    height:100%;
+    object-fit:cover;}
+ 
