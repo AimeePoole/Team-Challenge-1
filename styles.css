@@ -40,8 +40,15 @@ main
     border-style: dotted;
     padding: 10px;
     float:left;
-} 
+    width: 320px;
+    height: 200px;
+}
 
+.event h2 
+{
+    width: 290px;
+    height: 60px;
+}
 
 .button
 {
@@ -49,4 +56,9 @@ main
     margin: 5px 5px;
     padding: 5px;
     color: white;
+}
+
+table
+{
+
 }
