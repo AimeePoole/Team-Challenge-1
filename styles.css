@@ -41,8 +41,13 @@ main
     margin: 10px 5px;
     padding: 10px;
     color: white;
-    float: ;
-    
+    display:inline-block;
+}
+
+#nav
+{
+    margin: auto;
+    width: 300px;
 }
 
 .event
