@@ -92,7 +92,11 @@ table, th, td
     text-align: left;
 }
 
-th:hover {background-color: rgb(128, 0, 119)}
+th:hover 
+{
+    background-color: rgb(128, 0, 119);
+    color: white;
+}
 th {
     background-color: rgb(162, 198, 218);
 }
