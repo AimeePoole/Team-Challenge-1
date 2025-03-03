@@ -44,11 +44,7 @@ main
     display:inline-block;
 }
 
-#nav
-{
-    margin: auto;
-    width: 300px;
-}
+
 
 .event
 {
@@ -153,3 +149,8 @@ td
   width: 300px;
   background-color: blue;
     }
+
+.navbarItem
+{  
+    float: left;
+}
