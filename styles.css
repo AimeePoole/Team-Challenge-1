@@ -77,9 +77,15 @@ main
 
 .campus
 {
-    float:inline-end;
+    clear: both; 
+    display: block; 
+    position: relative; 
 }
 
+.events
+{
+
+}
 table
 {
 
