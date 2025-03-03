@@ -37,6 +37,7 @@ main
 {
     margin: 10px 5px;
     border: black 2px;
+    border-style: dotted;
     padding: 10px;
     float:left;
 } 
