@@ -24,11 +24,19 @@ main
 }
 
 
-.link
+.box
 {
     background-color: rgb(0, 83, 128);
     margin: 10px 5px;
     border-radius: 15px;
     padding: 10px;
+    color: white;
+}
+
+.button
+{
+    background-color: rgb(128, 0, 119);
+    margin: 5px 5px;
+    padding: 5px;
     color: white;
 }
