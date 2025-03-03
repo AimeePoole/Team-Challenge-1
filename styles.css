@@ -82,14 +82,14 @@ main
     position: relative; 
 }
 
-.events
+
+table, th, td 
 {
+    border: 1px solid;
+    border-collapse: collapse;
 
 }
-table
-{
 
-}
 
 .scrollmenu {
     overflow-x: scroll;
