@@ -33,6 +33,15 @@ main
     color: white;
 }
 
+.event
+{
+    margin: 10px 5px;
+    border: black 2px;
+    padding: 10px;
+    float:left;
+} 
+
+
 .button
 {
     background-color: rgb(128, 0, 119);
