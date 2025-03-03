@@ -44,7 +44,11 @@ main
     display:inline-block;
 }
 
-
+#nav
+{
+    margin: auto;
+    width: 300px;
+}
 
 .event
 {
@@ -119,7 +123,7 @@ td
     display:inline-block;
   }
 
-#image
+.image
 {
     float:left;
     width:100%;
@@ -153,4 +157,19 @@ td
 .navbarItem
 {  
     float: left;
+}
+
+.navigation
+{
+    background-color: rgb(162, 198, 218);
+    margin: 10px 5px;
+    padding: 10px;
+    color: white;
+    display:inline-block;
+}
+
+#nav
+{
+    margin: auto;
+    width: 300px;
 }
